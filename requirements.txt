@@ -1,0 +1,14 @@
+manim 
+streamlit 
+protobuf 
+openai 
+moviepy 
+matplotlib 
+google-cloud
+pillow 
+decorator 
+google-cloud-texttospeech
+imageio 
+ffmpeg
+imageio[ffmpeg]
+imageio_ffmpeg
